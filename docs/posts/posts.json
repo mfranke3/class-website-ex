@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Data viz ex",
+    "description": "Welcome to our new blog, Data viz ex. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-02-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-24T10:20:58-08:00"
+  }
+]
