@@ -1,0 +1,32 @@
+---
+title: "My first blog post"
+description: |
+  A short description of the post.
+author:
+  - name: Mike Frankel
+    url: https://example.com/norajones
+date: 02-24-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Test.
+
+```{r}
+library(ggplot2)
+ggplot(mpg, aes(displ,cty))+
+  geom_point()
+```
+
+
+Another test.
+```{r}
+ggplot(mpg, aes(displ,cty))+
+  geom_point()+
+  geom_smooth()
+```

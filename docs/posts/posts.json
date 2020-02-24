@@ -13,5 +13,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-02-24T10:20:58-08:00"
+  },
+  {
+    "path": "posts/2020-02-24-my-first-blog-post/",
+    "title": "My first blog post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Mike Frankel",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-02-24",
+    "categories": [],
+    "preview": "posts/2020-02-24-my-first-blog-post/my-first-blog-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-02-24T11:19:15-08:00"
   }
 ]
